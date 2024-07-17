@@ -1,0 +1,97 @@
+.logo{
+    width: 140px;
+    height: 50px;
+    margin: 20px;
+}
+.header1{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #131921;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.header1 img:hover{
+    border:1px solid white;
+    padding: 4px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    flex: 1;
+}
+.search input{
+    width: 900px;
+    height: 10px;
+    padding: 10px;
+
+}
+
+.search button{
+    padding: 8px;
+    height: 40px;
+    background-color: rgb(226, 156, 52);
+}
+.search button:hover{
+    border:1px solid white;
+    padding: 4px;
+}
+.nav{
+    display: flex;
+    align-items: center;
+
+}
+.navitem{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    flex-direction: column;
+}
+.item1{
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+}
+.item2{
+    display: block;
+    font-size: 15px;
+    font-weight: 800;
+    color: white;
+}
+
+.header2{
+    background-color: #232f3e;
+}
+.header2 ul{
+    list-style: none;
+    padding: 5px 30px 10px 30px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+
+}
+
+.header2 ul li{
+    margin-right: 20px;
+    color: white;
+
+}
+.header2 ul li:hover{
+    border:1px solid white;
+    padding: 4px;
+}
+
+.cart{
+    display: flex;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 800;
+
+}
+.cart:hover{
+    border:1px solid white;
+    padding: 10px;
+}

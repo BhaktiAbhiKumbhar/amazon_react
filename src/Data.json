@@ -1,0 +1,66 @@
+[
+    {
+       "img":"https://th.bing.com/th/id/OIP.j9DZh7hncnPrT8f18xwa6gHaLH?w=133&h=200&c=7&o=5&dpr=1.3&pid=1.7",
+       "Name":"Men Shirt",
+       "Price":"5000 Rs"
+
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.FViqANwHlfUDGdA5Wtm6fgHaId?w=151&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+       "Name":"Girls Frock",
+       "Price":"1000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th?q=Simple+Clothes&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "Name":"simple",
+        "Price":"1000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th?q=Cotton+Clothes&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "Name":"Cotton",
+        "Price":"600 Rs"
+    },
+   
+    {
+        "img":"https://th.bing.com/th/id/OIP.UasENCU1YQ-rdVqUiXqj_AHaLH?w=204&h=306&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "Name":"Gucci Look",
+        "Price":"3000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.1oCiwzRSYyK1FavCQna-cgHaJC?w=160&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "Name":"Kids wear boys",
+        "Price":"1500 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.j9DZh7hncnPrT8f18xwa6gHaLH?w=133&h=200&c=7&o=5&dpr=1.3&pid=1.7",
+        "Name":"Summer Fashion",
+        "Price":"1500 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.S-HVR7N5wc-BHW0_0BtG8wHaLk?w=200&h=312&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "Name":"Fall winter",
+        "Price":"2000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th?q=Nike+Clothes&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247",
+        "Name":"Nike",
+        "Price":"2000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.UasENCU1YQ-rdVqUiXqj_AHaLH?w=204&h=306&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "Name":"Gucci Look",
+        "Price":"3000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th?id=OPAC.VPZWCq%2bDgVRAHg474C474&w=220&h=210&c=17&o=5&dpr=1.3&pid=21.1",
+        "Name":"Off White printed",
+        "Price":"3000 Rs"
+    },
+    {
+        "img":"https://th.bing.com/th/id/OIP.1oCiwzRSYyK1FavCQna-cgHaJC?w=160&h=195&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "Name":"Kids wear boys",
+        "Price":"1500 Rs"
+    }
+
+
+]
